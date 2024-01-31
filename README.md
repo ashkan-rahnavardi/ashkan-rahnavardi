@@ -1,5 +1,4 @@
-### Howdy 👋, I'm Ash 
-![giphy](https://github.com/ashkan-rahnavardi/ashkan-rahnavardi/assets/77521991/eb7890f4-c935-4942-924c-cd6399f78516)
+### Howdy 👋, I'm Ash ![giphy](https://github.com/ashkan-rahnavardi/ashkan-rahnavardi/assets/77521991/eb7890f4-c935-4942-924c-cd6399f78516)
 
 ## 
 
