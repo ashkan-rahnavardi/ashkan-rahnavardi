@@ -24,6 +24,12 @@ This is Pishi, my pair programming partner, she's great at debugging but struggl
 ![Pishi](https://github.com/ashkan-rahnavardi/ashkan-rahnavardi/assets/77521991/16619536-6495-40a8-b5b1-d3c8866ba7ac)
 
 
+## Let's Connect
+- 📫 Feel free to shoot me an email at [ashkan.rahnavardi@gmail.com](mailto:ashkan.rahnavardi@gmail.com)
+- 🌐 Visit my whimsical website: [Ashkans.World](https://www.ashkans.world)
+- 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashkan-rahnavardi/)
+
+Thanks for dropping by my GitHub! Let's code, laugh, and create some web-tastic wonders together! 🚀🤪✨
 
 <!--
 **ashkan-rahnavardi/ashkan-rahnavardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
