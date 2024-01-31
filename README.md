@@ -1,4 +1,8 @@
-# Howdy 👋, I'm Ash 
+# Howdy 👋 
+
+I'm Ash, a budding web developer with a passion for creating awesome websites and applications. 🌐✨
+
+
 
 
 
