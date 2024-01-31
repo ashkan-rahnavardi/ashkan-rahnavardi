@@ -1,6 +1,6 @@
-### Hi there 👋
+### Howdy 👋, I'm Ash <iframe src="https://giphy.com/embed/QxHQ4BtLeEGBlWIFTs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SVT-hall-howdy-bst-i-test-QxHQ4BtLeEGBlWIFTs">via GIPHY</a></p>
+## 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=ashkan-rahnavardi&theme=sunset-gradient" alt="GitHub Streak" /></a>
 
 <!--
 **ashkan-rahnavardi/ashkan-rahnavardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
