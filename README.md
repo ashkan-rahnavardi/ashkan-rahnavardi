@@ -26,7 +26,7 @@ This is Pishi, my pair programming partner, she's great at debugging but struggl
 
 ## Let's Connect
 - 📫 Feel free to shoot me an email at [ashkan.rahnavardi@gmail.com](mailto:ashkan.rahnavardi@gmail.com)
-- 🌐 Visit my whimsical website: [Ashkans.World](https://www.ashkans.world)
+- 🌐 Visit my whimsical website: [ashkans.world](https://www.ashkans.world)
 - 💬 Connect with me on [LinkedIn](https://www.linkedin.com/in/ashkan-rahnavardi/)
 
 Thanks for dropping by my GitHub! Let's code, laugh, and create some web-tastic wonders together! 🚀🤪✨
