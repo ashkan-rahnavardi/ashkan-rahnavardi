@@ -12,7 +12,7 @@ I'm Ash, a budding web developer with a passion for creating awesome websites an
 
 - 💻 HTML, CSS, TypeScript
 - 🚀 React, Next.js
-- 🧰 Tailwind CSS, Shadcn UI
+- :ribbon: Tailwind CSS, Shadcn UI
 - 🗄️ MongoDB, PostGreSQL
 - 🔧 Git, GitHub
 - 📦 And always eager to explore more!
