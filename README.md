@@ -1,4 +1,6 @@
-### Howdy 👋, I'm Ash <iframe src="https://giphy.com/embed/QxHQ4BtLeEGBlWIFTs" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/SVT-hall-howdy-bst-i-test-QxHQ4BtLeEGBlWIFTs">via GIPHY</a></p>
+### Howdy 👋, I'm Ash 
+![giphy](https://github.com/ashkan-rahnavardi/ashkan-rahnavardi/assets/77521991/eb7890f4-c935-4942-924c-cd6399f78516)
+
 ## 
 
 
