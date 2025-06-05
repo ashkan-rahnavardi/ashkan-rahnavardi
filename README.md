@@ -2,8 +2,6 @@
 
 I'm Ash, a budding web developer with a passion for creating awesome websites and applications. 🌐✨
 
-The project I am currently working on is [Plate Grabber](https://github.com/ashkan-rahnavardi/plate-grabber), an electronic alternative to filling out paper forms for the Traffic Department of the City of Vancouver. A live demo of the first version is available [here](https://www.ashkans.world/projects/Plate-Grabber) (currently working on V2).
-
 
 ## About Me
 
